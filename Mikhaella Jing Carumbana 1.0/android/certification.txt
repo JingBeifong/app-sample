@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Mikhaella Jing Carumbana 1.0
+---------------------------------------------------
+
+app_name - 						Mikhaella Jing Carumbana
+app_alias - 					mikhaellajingcarumbana
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Pampanga
+app_author_country - 			Philippines
+app_password - 					NI939CIKjPKX
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Friday 13th of January 2023 04:13:30 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
